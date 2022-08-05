@@ -13,6 +13,12 @@ run SelectDB.bat or run_SelectDB.sh
 ```
 runDecodeEncode.bat
 ```
+결과
+```
+"c:/Program Files/ojdkbuild/java-1.8.0-openjdk-1.8.0.222-2/bin/java" DecodeEncode B0A1 MS949
+**** Decode and Encode string:B0A1 by charset MS949
+**** Decoded = [가]
+```
  
 ### 아래 오류에 대한 조사를 위해 만든 스크립트들
 ```
